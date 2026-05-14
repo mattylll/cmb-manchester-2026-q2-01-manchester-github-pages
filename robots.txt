@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://commercialmortgagesbroker.github.io/cmb-manchester-2026-q2-01-manchester-github-pages/sitemap.xml
+Sitemap: https://mattylll.github.io/cmb-manchester-2026-q2-01-manchester-github-pages/sitemap.xml
